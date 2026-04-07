@@ -1,1 +1,1 @@
-drwxrwsr-t 2 root developers 4096 Apr  7 11:40 devs
+drwxrwsr-t
