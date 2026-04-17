@@ -1,2 +1,2 @@
 #!/bin/bash
-grep -h segfault "$1" 2>/dev/nul
+grep segfault "$1" 2>/dev/null
