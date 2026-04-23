@@ -1,2 +1,1 @@
-OK: /etc/passwd integrity verified
-OK: /etc/ssh/sshd_config integrity verified
+ok
