@@ -1,1 +1,2 @@
-5b27f15abfd03b31956f8cc8b6cf94b3
+OK: ssh is running
+OK: cron is running
