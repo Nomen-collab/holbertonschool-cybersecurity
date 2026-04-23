@@ -1,2 +1,1 @@
-OK: ssh is running
-OK: cron is running
+ok
